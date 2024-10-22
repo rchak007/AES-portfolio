@@ -1,4 +1,7 @@
-
+// ***********************************************************************************
+//  i hvae moved this to Dell laptop under blinks-portfolio solana project.
+// adding new things there. 10/3/24. So use that. 
+// ***********************************************************************************
 
 import {
   Connection,
